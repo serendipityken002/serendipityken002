@@ -14,12 +14,12 @@
 
 🚀 **Explore My Digital Universe!** 🚀
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/serendipityken002)</br>
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/1203071517)</br>
-[![CSDN](https://img.shields.io/badge/-CSDN-e95420?logo=csdn)](https://blog.csdn.net/2301_78346710)</br>
-[![Email](https://img.shields.io/badge/-Email-30B980?logo=gmail)](mailto:2199974716@qq.com)</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/serendipityken002)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/1203071517)
+[![CSDN](https://img.shields.io/badge/-CSDN-e95420?logo=csdn)](https://blog.csdn.net/2301_78346710)
+[![Email](https://img.shields.io/badge/-Email-30B980?logo=gmail)](mailto:2199974716@qq.com)
 
----
+
 
 - 👋 I’m @serendipityken002 from Wuhan University of Technology
 - 👀 I’m interested in code
@@ -29,12 +29,12 @@
 - 😄 Pronouns: When things did not go as wished, it was simply because my capabilities fell short; nothing more, nothing less.
 - ⚡ Fun fact: ...
 
-
-
 <!--   my-skils -->
 ### Skills
-| Property                                        | Data    
-|-------------------------------------------------|-----------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)|
+| Property                                        | Data                               | One Line Description            |
+|-------------------------------------------------|-----------------------------------|-----------------------------------|
+| [**xiaozhi**](https://github.com/serendipityken002/my-xiaozhi)                              | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  [![AI](https://img.shields.io/badge/AI-%23FF8C00.svg?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  |This is the server-side part of an AI assistant |
+| [**supermarket**](https://github.com/serendipityken002/supermarket) | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | This is an e-commerce shopping site |
+| [**xtp_com**](https://github.com/serendipityken002/xtp_com) | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Serial](https://img.shields.io/badge/Serial-%23000000.svg?style=flat&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Serial_communication) | This is a serial server |
 
 
