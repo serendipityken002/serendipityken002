@@ -1,19 +1,25 @@
 ## Serendipity
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我+是+雨落倾城;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+我+是+雨落倾城;+Welcome+to+My+Digital+Universe!" />
+</div>
 
-I am ready to take responsibility for all my past mistakes, yet I do not regret any of my decisions nor ever doubt my judgment.
+### 🔥 **Technical Manifesto**
+> *"I am ready to take responsibility for all my past mistakes, yet I do not regret any of my decisions nor ever doubt my judgment.</br>
+> When things did not go as wished, it was simply because my capabilities fell short; nothing more, nothing less.</br>
+> I will not judge my past self from the perspective of today, for that would be unfair. Even if given a chance to relive those moments, with the same experiences and mindset of that time, I would inevitably make the same choices."*</br>
 
-When things did not go as wished, it was simply because my capabilities fell short; nothing more, nothing less.
 
-I will not judge my past self from the perspective of today, for that would be unfair. Even if given a chance to relive those moments, with the same experiences and mindset of that time, I would inevitably make the same choices.
 
 🚀 **Explore My Digital Universe!** 🚀
 
-Github: ![github](https://github.com/serendipityken002)</br>
-bilibili: ![bilibili](https://space.bilibili.com/1203071517?spm_id_from=333.1007.0.0)</br>
-CSDN: ![CSDN](https://blog.csdn.net/2301_78346710?spm=1000.2115.3001.5343)</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/serendipityken002)</br>
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/1203071517)</br>
+[![CSDN](https://img.shields.io/badge/-CSDN-e95420?logo=csdn)](https://blog.csdn.net/2301_78346710)</br>
+[![Email](https://img.shields.io/badge/-Email-30B980?logo=gmail)](mailto:2199974716@qq.com)</br>
+
+---
 
 - 👋 I’m @serendipityken002 from Wuhan University of Technology
 - 👀 I’m interested in code
@@ -22,6 +28,7 @@ CSDN: ![CSDN](https://blog.csdn.net/2301_78346710?spm=1000.2115.3001.5343)</br>
 - 📫 You can reach me by email: 2199974716@qq.com
 - 😄 Pronouns: When things did not go as wished, it was simply because my capabilities fell short; nothing more, nothing less.
 - ⚡ Fun fact: ...
+
 
 
 <!--   my-skils -->
