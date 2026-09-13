@@ -23,18 +23,15 @@
 
 - 👋 I’m @serendipityken002 from Wuhan University of Technology
 - 👀 I’m interested in code
-- 🌱 I’m currently learning xiaozhi(Python)
-- 💞️ I’m curious about hacking techniques and AI art
-- 📫 You can reach me by email: 2199974716@qq.com
 - 😄 Pronouns: When things did not go as wished, it was simply because my capabilities fell short; nothing more, nothing less.
-- ⚡ Fun fact: ...
 
 <!--   my-skils -->
+<!--
 ### Skills
 | Property                                        | Data                               | One Line Description            |
 |-------------------------------------------------|-----------------------------------|-----------------------------------|
 | [**xiaozhi**](https://github.com/serendipityken002/my-xiaozhi)                              | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  [![AI](https://img.shields.io/badge/AI-%23FF8C00.svg?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  |This is the server-side part of an AI assistant |
 | [**supermarket**](https://github.com/serendipityken002/supermarket) | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | This is an e-commerce shopping site |
 | [**xtp_com**](https://github.com/serendipityken002/xtp_com) | [![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Serial](https://img.shields.io/badge/Serial-%23000000.svg?style=flat&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Serial_communication) | This is a serial server |
-
+-->
 
